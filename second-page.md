@@ -1,3 +1,3 @@
-# Example Second Page
+# A Collection of Our Writing 
 
-This is an example second page that will appear in the Docsify Sidebar.
+Coming Soon
